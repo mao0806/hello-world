@@ -1,0 +1,30 @@
+csv：comma separated values一种文件格式
+
+人脸属性技术总结
+https://blog.csdn.net/u011808673/article/details/80268442
+
+
+－ＰＡＰＥＲ－
+Doing the Best We Can with What We Have:　Multi-Label Balancing with Selective Learning for Attribute Prediction
+intuitive直观的
+
+to date 到目前为止
+
+不足：celeba contains mostly frontal idealized images of celebrities
+      celeba 包含的都是名人的正脸理想照片
+　　　　　　celeba 上训练的模型泛化性差
+
+多标签缺点：不能平衡所有属性的正负样本，采样的方法平衡其中一个样本会影响到其他样本的分布　
+买东西
+
+针对这个问题提出a novel selective learning method
+Models trained on this data - without accounting for its biases - are not likely to perform well on another do-
+main
+
+
+
+https://guides.github.com/
+github指南
+
+帮瓦工
+
